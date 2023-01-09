@@ -19,9 +19,9 @@
 ## Download & Installation
 
 * Download and extract the package
-* Drop the `dsupershop-master` directory into you `resources` directory
-* Rename the directory from `dsupershop-master` to `dsupershop`
-* Add `ensure dsupershop` in your `server.cfg`
+* Drop the `Dsupershop-master` directory into you `resources` directory
+* Rename the directory from `Dsupershop-master` to `Dsupershop`
+* Add `ensure Dsupershop` in your `server.cfg`
 * Edit `config.lua` to your liking
 * Start your server and rejoice!
 
