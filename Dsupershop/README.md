@@ -18,7 +18,7 @@
 
 ## Download & Installation
 
-* Download and extract the package
+* Download and extract the package: https://github.com/Mobius1/rprogress/archive/master.zip
 * Drop the `dsupershop-master` directory into you `resources` directory
 * Rename the directory from `dsupershop-master` to `dsupershop`
 * Add `ensure dsupershop` in your `server.cfg`
